@@ -5,7 +5,8 @@
 <img width="975" height="577" alt="image" src="https://github.com/user-attachments/assets/116ca6d2-615e-42a0-867f-7a91f714219e" />
 
 # GCP
-<img width="975" height="577" alt="image" src="https://github.com/user-attachments/assets/d889d2d1-ed7b-46a1-9682-8c984c289c8d" />
+<img width="975" height="577" alt="image" src="https://github.com/user-attachments/assets/ed360239-f076-425e-87f0-df90faed54cc" />
+
 
 # KILLER CODA TERMINAL
 <img width="975" height="577" alt="image" src="https://github.com/user-attachments/assets/574a2924-0313-4231-bc83-ebf84f761041" />
