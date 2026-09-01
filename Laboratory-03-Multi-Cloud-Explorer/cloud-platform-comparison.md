@@ -1,6 +1,6 @@
 # Cloud Platform Comparison
 
-## AWS vs Microsoft Azure vs Google Cloud Platform
+# AWS vs Microsoft Azure vs Google Cloud Platform
 
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 |---|---|---|---|
@@ -41,7 +41,7 @@ Personally, I would choose AWS because it has many different services that can b
 | SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
 | Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
 
-## Multi-Cloud Decision Matrix
+# Multi-Cloud Decision Matrix
 
 
 | Business Requirement | Recommended Platform | Justification |
