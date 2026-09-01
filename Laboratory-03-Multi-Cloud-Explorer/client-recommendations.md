@@ -1,57 +1,49 @@
 # Cloud Platform Recommendation Challenge
 
-CloudNova Technologies has four different clients with different needs. Each client needs a cloud platform that fits their budget, existing technology, and business goals.
+CloudNova Technologies has four clients, and each one has different needs. Because of this, I chose a cloud platform for each client based on their budget, current technology, and business goals.
 
 ## Client A – Startup Company
 
-### Recommended Platform: Amazon Web Services (AWS)
+For Client A, I would choose AWS because it offers many services that are useful for startups. The company can begin with basic cloud resources and add more as its mobile application gains users. Using AWS also means that the startup does not need to spend a lot of money on physical servers. Since the company plans to grow, AWS can easily adjust to its changing needs.
 
-I would recommend AWS for this startup because it has many services that can be used even when the company is still small. The company can start with the resources it needs and increase them as more people begin using the mobile application. AWS also gives the startup many options for building and managing its application without having to buy expensive physical servers. This makes it a good choice for a company that expects to grow in the future.
+### Services to Use
 
-### Services the Client Could Use
-
-- **Amazon EC2** 
-- **Amazon S3** 
-- **Amazon RDS** 
+Amazon EC2 – for running the mobile application's backend and other workloads.
+Amazon S3 – for storing files, images, and other application data.
+Amazon RDS – for managing the application's relational database.
 
 ---
 
 ## Client B – University
 
-### Recommended Platform: Microsoft Azure
+For the university, I would recommend Microsoft Azure because it already uses Microsoft technologies such as Windows Server, Microsoft 365, and Active Directory. Since Azure is also a Microsoft product, it can work well with the university's existing systems. This can make it easier to move some services to the cloud without completely changing the technology they are already familiar with.
 
-I would recommend Microsoft Azure because the university is already using Windows Server, Microsoft 365, and Active Directory. Azure works well with Microsoft's existing products, so moving some of the university's services to the cloud can be easier. The university can also continue using Microsoft-based technologies while adding cloud services when needed. This makes Azure a practical choice for the university's existing environment.
+### Services to Use
 
-### Services the Client Could Use
-
-- **Azure Virtual Machines** 
-- **Microsoft Entra ID** 
-- **Azure SQL Database**
+Azure Virtual Machines – for running Windows-based applications and servers.
+Microsoft Entra ID – for managing student, faculty, and staff accounts and access.
+Azure SQL Database – for storing and managing university-related data.
 
 ---
 
 ## Client C – AI Research Company
 
-### Recommended Platform: Google Cloud Platform (GCP)
+For Client C, I would choose Google Cloud because the company is mainly focused on Artificial Intelligence and Machine Learning. GCP provides tools and computing resources that can support AI research and model development. The company can also use powerful processors such as GPUs when it needs more computing power. Because of these features, GCP is a suitable platform for this type of company.
 
-I would recommend Google Cloud because the company focuses on Artificial Intelligence and Machine Learning. Google Cloud has services designed for developing and training AI models, as well as computing resources that can handle demanding workloads. The company can also use GPUs when it needs more processing power for its research. Because of these features, GCP would be a good fit for an AI research company.
+### Services to Use
 
-### Services the Client Could Use
-
-- **Compute Engine** – for running high-performance computing workloads.
-- **Vertex AI** – for developing, training, and deploying machine learning models.
-- **Google Kubernetes Engine (GKE)** – for running containerized AI applications.
+Compute Engine – for running applications and high-performance computing workloads.
+Vertex AI – for creating, training, testing, and deploying machine learning models.
+Google Kubernetes Engine (GKE) – for managing containerized AI applications.
 
 ---
 
 ## Client D – Global E-Commerce Company
 
-### Recommended Platform: Amazon Web Services (AWS)
+For Client D, I would recommend AWS because the company serves customers from different parts of the world. The online store needs to stay available even when there are many customers accessing it at the same time. AWS has a large global infrastructure and services that can help distribute traffic and automatically increase resources when needed. This can help the company maintain good website performance during busy periods such as sales and promotions.
 
-I would recommend AWS because the company has customers from different parts of the world and needs its online store to remain available. AWS has a global infrastructure that can help the company serve customers in different locations. It also has services that can automatically adjust resources when the number of customers increases or decreases. This can help the e-commerce website handle busy periods while maintaining good performance.
+### Services to Use
 
-### Services the Client Could Use
-
-- **Amazon EC2** 
-- **Elastic Load Balancing** 
-- **Amazon EC2 Auto Scaling** 
+Amazon EC2 – for hosting the e-commerce website and applications.
+Elastic Load Balancing – for distributing customer traffic across multiple servers.
+Amazon EC2 Auto Scaling – for automatically adding or removing computing resources depending on the website's traffic.
