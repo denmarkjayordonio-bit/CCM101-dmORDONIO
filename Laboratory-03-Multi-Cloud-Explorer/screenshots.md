@@ -1,4 +1,4 @@
-<img width="975" height="577" alt="image" src="https://github.com/user-attachments/assets/e34893bc-1e41-4498-aad7-a89d88cd5164" /># AWS
+# AWS
 <img width="975" height="577" alt="image" src="https://github.com/user-attachments/assets/419995ca-1976-48ba-8405-ee8fea8a129b" />
 
 # AZURE
