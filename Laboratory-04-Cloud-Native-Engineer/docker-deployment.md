@@ -6,6 +6,7 @@ docker ps
 
 This command displays the containers that are currently running.
 
+
 ### 2. Stop the Container
 
 ```bash
@@ -13,6 +14,7 @@ docker stop nginx-server
 ```
 
 This command stops the running Nginx container.
+
 
 ### 3. Verify the Container is Stopped
 
@@ -22,6 +24,7 @@ docker ps -a
 ```
 
 These commands verify that the Nginx container is no longer running and can still be viewed among stopped containers.
+
 
 ### 4. Remove the Container
 
@@ -57,5 +60,7 @@ Port `8080` on the host was mapped to port `80` inside the Nginx container so th
 
 The terminal screenshot showing the container lifecycle commands is stored in:
 
-`screenshots/container-lifecycle.png`
+<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/d37153d7-ba96-4221-b890-d7c47dee65e4" />
+<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/182dc738-1889-4b22-a40e-40ecdd255382" />
+
 
