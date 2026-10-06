@@ -1,10 +1,6 @@
 
----
-
-
 This one is shorter and more like something a student would actually put in a GitHub repository.
 
-```markdown
 # Laboratory 06 - Cloud Deployment Engineer
 
 ## Mission Overview
@@ -27,9 +23,3 @@ The main objectives of this laboratory were:
 - Access the Nextcloud setup page through port 8080.
 - Properly stop and remove the containers after testing.
 
-## Commands Executed
-
-The following commands were used during the activity:
-
-```bash
-docker --version
