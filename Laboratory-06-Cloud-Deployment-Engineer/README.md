@@ -1,8 +1,4 @@
 
-This one is shorter and more like something a student would actually put in a GitHub repository.
-
-# Laboratory 06 - Cloud Deployment Engineer
-
 ## Mission Overview
 
 For this laboratory, I worked with Docker Compose to create a private cloud storage environment using Nextcloud.
